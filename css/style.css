@@ -67,5 +67,21 @@ header {
 }
 
 .navbar a:hover {
-    
+    background-color: var(--text-color);
+    color: #fff;
+}
+
+.icons {
+    display: inline-block;
+}
+
+.icons i {
+    color: var(--text-color);
+    font-size: 24px;
+    margin-left: 15px;
+}
+
+
+.icons i:hover {
+    opacity: 0.7;
 }
