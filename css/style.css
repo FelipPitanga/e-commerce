@@ -234,4 +234,17 @@ select {
     cursor: pointer;
 }
 
+.lst {
+    text-align: center;
+    padding: 17px;
+    background: #757575;
+}
+
+.lst p {
+    color: var(--text-color);
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+
 
